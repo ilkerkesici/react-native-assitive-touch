@@ -12,6 +12,10 @@
 
 ```sh
 npm install --save react-native-assitive-touch
+
+or
+
+yarn add react-native-assitive-touch
 ```
 
 
