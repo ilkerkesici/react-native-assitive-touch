@@ -1,6 +1,7 @@
 # React Native AssitiveTouch Component Like IPhone
 
-> GitHub : <a href="https://github.com/ilkerkesici/react-native-assitive-touch">https://github.com/ilkerkesici/react-native-assitive-touch</a>
+- NPM : <a href="https://www.npmjs.com/package/react-native-assitive-touch">https://www.npmjs.com/package/react-native-assitive-touch</a>
+- Yarn : <a href="https://yarnpkg.com/package/react-native-assitive-touch">https://yarnpkg.com/package/react-native-assitive-touch</a>
 
 ## :star: ScreenShot
 
