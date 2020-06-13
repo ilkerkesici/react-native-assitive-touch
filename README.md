@@ -1,7 +1,13 @@
 # React Native AssitiveTouch Component Like IPhone
-
-- NPM : <a href="https://www.npmjs.com/package/react-native-assitive-touch">https://www.npmjs.com/package/react-native-assitive-touch</a>
-- Yarn : <a href="https://yarnpkg.com/package/react-native-assitive-touch">https://yarnpkg.com/package/react-native-assitive-touch</a>
+<p>
+  <a href="https://www.npmjs.com/package/react-native-assitive-touch">
+    <img alt="Build Status" src="https://img.shields.io/static/v1?label=download&message=npm&color=red" target="_blank" />
+ </a>
+  <a href="https://yarnpkg.com/package/react-native-assitive-touch">
+    <img alt="Documentation" src="https://img.shields.io/static/v1?label=download&message=yarn&color=blue" target="_blank" />
+  </a>
+  
+</p>
 
 ## :star: ScreenShot
 
